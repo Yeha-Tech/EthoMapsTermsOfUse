@@ -44,7 +44,7 @@ The App provides location-based services, including search, routing, and navigat
 
 #### 8. Contact Information
 
-If you have any questions, please contact us at admin@ethiomaps.com.
+If you have any questions, please contact us at admin@yehatech.com.
 
 ---
 
@@ -81,7 +81,7 @@ At **Ethiomap**, we take your privacy seriously. This Privacy Policy explains ho
 #### 5. Your Choices and Rights
 
 - You can disable location services through your device settings, but this may limit App functionality.
-- You can request data deletion by contacting us at admin@ethiomaps.com.
+- You can request data deletion by contacting us at admin@yehatech.com.
 
 #### 6. Changes to Privacy Policy
 
@@ -89,4 +89,4 @@ At **Ethiomap**, we take your privacy seriously. This Privacy Policy explains ho
 
 #### 7. Contact Information
 
-For any privacy-related questions, contact us at admin@ethiomaps.com.
+For any privacy-related questions, contact us at admin@yehatech.com.
