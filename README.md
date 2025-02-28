@@ -50,7 +50,7 @@ If you have any questions, please contact us at admin@ethiomaps.com.
 
 ### Privacy Policy
 
-**Effective Date: [Insert Date]**
+**Effective Date: Feb 28, 2025**
 
 At **Ethiomap**, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal data.
 
