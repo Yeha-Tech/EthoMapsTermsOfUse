@@ -23,25 +23,33 @@ The App provides location-based services, including search, routing, and navigat
 - You are responsible for maintaining the confidentiality of your account and any actions taken under your account.
 - You acknowledge that navigation recommendations are based on available data and should be used with personal judgment.
 
-#### 4. Data Accuracy and Availability
+#### 4.  OpenStreetMap (OSM) Data Usage
+
+Ethio Map uses map data from OpenStreetMap (OSM), which is made available under the Open Database License (ODbL). More information about the license can be found at https://www.openstreetmap.org/copyright.
+
+Since OSM is a community-driven platform, we do not guarantee the accuracy, completeness, or timeliness of the map data provided.
+
+If you contribute data to OSM through the App (if applicable), your contributions will be governed by OSM’s terms and licensing.
+
+#### 5. Data Accuracy and Availability
 
 - While we strive to provide accurate information, we do not guarantee the correctness of map data, routes, or locations.
 - The App may experience interruptions due to maintenance, updates, or external factors beyond our control.
 
-#### 5. Intellectual Property
+#### 6. Intellectual Property
 
 - You may not modify, reproduce, or distribute the App without permission.
 
-#### 6. Limitation of Liability
+#### 7. Limitation of Liability
 
 - We are not responsible for any damages, direct or indirect, resulting from your use of the App.
 - The App is provided "as is" without warranties of any kind.
 
-#### 7. Changes to Terms
+#### 8. Changes to Terms
 
 - We reserve the right to update these Terms of Use at any time. Continued use of the App after changes constitutes acceptance of the new terms.
 
-#### 8. Contact Information
+#### 9. Contact Information
 
 If you have any questions, please contact us at admin@yehatech.com.
 
