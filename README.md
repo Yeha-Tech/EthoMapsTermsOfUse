@@ -29,8 +29,6 @@ Ethio Map uses map data from OpenStreetMap (OSM), which is made available under 
 
 Since OSM is a community-driven platform, we do not guarantee the accuracy, completeness, or timeliness of the map data provided.
 
-If you contribute data to OSM through the App (if applicable), your contributions will be governed by OSM’s terms and licensing.
-
 #### 5. Data Accuracy and Availability
 
 - While we strive to provide accurate information, we do not guarantee the correctness of map data, routes, or locations.
