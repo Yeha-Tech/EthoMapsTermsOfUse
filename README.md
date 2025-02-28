@@ -30,8 +30,7 @@ The App provides location-based services, including search, routing, and navigat
 
 #### 5. Intellectual Property
 
-- All content, including maps, logos, and software, is owned by **Ethiomap** and is protected under intellectual property laws.
-- You may not modify, reproduce, or distribute any part of the App without permission.
+- You may not modify, reproduce, or distribute the App without permission.
 
 #### 6. Limitation of Liability
 
