@@ -4,7 +4,7 @@
 
 **Effective Date: Feb 28, 2025**
 
-Welcome to **Ethiomap** ("the App"), a navigation and mapping service that provides location search, routing, and navigation assistance. By using our services, you agree to these Terms of Use. If you do not agree, please do not use the App.
+Welcome to **Ethiomaps** ("the App"), a navigation and mapping service that provides location search, routing, and navigation assistance. By using our services, you agree to these Terms of Use. If you do not agree, please do not use the App.
 
 #### 1. Acceptance of Terms
 
@@ -25,7 +25,7 @@ The App provides location-based services, including search, routing, and navigat
 
 #### 4.  OpenStreetMap (OSM) Data Usage
 
-Ethio Map uses map data from OpenStreetMap (OSM), which is made available under the Open Database License (ODbL). More information about the license can be found at https://www.openstreetmap.org/copyright.
+EthioMaps uses map data from OpenStreetMap (OSM), which is made available under the Open Database License (ODbL). More information about the license can be found at https://www.openstreetmap.org/copyright.
 
 Since OSM is a community-driven platform, we do not guarantee the accuracy, completeness, or timeliness of the map data provided.
 
@@ -57,7 +57,7 @@ If you have any questions, please contact us at admin@yehatech.com.
 
 **Effective Date: Feb 28, 2025**
 
-At **Ethiomap**, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal data.
+At **Ethiomaps**, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your personal data.
 
 #### 1. Information We Collect
 
